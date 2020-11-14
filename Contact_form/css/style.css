@@ -1,0 +1,89 @@
+
+
+*{margin: 0;padding: 0;box-sizing: border-box;}
+
+html{scroll-behavior: smooth;}
+
+body{ 
+    background-image: url(../../img/bg_img/tea.jpg);
+    background-repeat: no-repeat;}
+
+
+
+/***************************************/
+/**************basic css end************/
+/***************************************/
+
+
+
+
+
+
+/*
+=================================
+    navbar start
+=================================#39ac3f
+*/
+.navbar
+{ background-image: linear-gradient(to left, #025730, #707970) }
+
+.navbar .active
+{border: 1px solid black; padding: 1px 1px 1px 1px; margin-top: 5px;}
+
+.navbar-brand img
+{
+    height: 40px;
+}
+
+.navbar ul li
+{padding-left: 2rem;}
+
+.navbar ul li a
+{text-decoration: none; color: #fff!important; font-weight: bold;
+transition: 0.5s; font-size: 18px;}
+
+.navbar ul li a:hover
+{color: #75BA3D!important;}
+
+
+
+/*
+=================================
+    navbar end
+=================================
+*/
+
+
+
+
+
+
+/*
+===================================
+        contact form start
+===================================
+*/
+
+
+
+
+
+/*
+===================================
+        contact form end
+===================================
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+

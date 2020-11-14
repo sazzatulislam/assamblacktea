@@ -1,0 +1,97 @@
+/*
+=========================================
+        lablet layout
+=========================================
+*/
+
+@media only screen and (min-width:200px) and (max-width:991px) {
+
+
+    .navbar .active {
+        border: none
+    }
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+/*
+=========================================
+    mobile layout
+=========================================
+*/
+
+@media only screen and (min-width:200px) and (max-width:480px) {
+
+
+
+
+    .carousel-inner img {
+        height: 300px;
+    }
+
+
+    .navbar .active {
+        border: none
+    }
+
+
+
+    .carousel-caption {
+        margin-bottom: 2rem !important
+    }
+
+    .carousel-caption h1 {
+        font-size: 1.9rem;
+    }
+
+    .carousel-caption {
+        font-size: .7rem;
+    }
+
+
+
+
+
+    #myBtn {
+        display: none;
+        position: fixed;
+        right: 10px;
+        bottom: .5rem;
+        border: none;
+        color: #fff;
+        background: #000;
+        padding: 5px;
+        transition: 0.4s;
+        border-radius: 5px;
+        cursor: pointer;
+        animation: scroll 2s infinite;
+    }
+
+
+
+
+
+
+
+
+
+
+}
