@@ -404,8 +404,8 @@ footer .container
 {
     display: none;
     position: fixed;
-    right: 20px;
-    bottom: 10rem;
+    left: 20px;
+    bottom: 1rem;
     border: none;
     color: #fff;
     background: #000;
