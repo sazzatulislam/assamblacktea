@@ -5,7 +5,8 @@
 html{scroll-behavior: smooth;}
 
 body{ 
-    background-image: url(../../img/bg_img/tea.jpg);
+    background-image: url(../../img/bg_img/c_bg.jpg);
+    background-size: cover;
     background-repeat: no-repeat;}
 
 
@@ -64,6 +65,11 @@ transition: 0.5s; font-size: 18px;}
 ===================================
 */
 
+.b_color
+{
+    background: rgba(0,0,0,0.4);
+    border-radius: 30px;
+}
 
 
 
