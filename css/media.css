@@ -73,7 +73,7 @@
     #myBtn {
         display: none;
         position: fixed;
-        right: 10px;
+        left: 10px;
         bottom: .5rem;
         border: none;
         color: #fff;
