@@ -1,0 +1,47 @@
+
+
+
+body
+{
+   /*background: linear-gradient(to left, #263318,  #808000);*/
+   font-family: 'Gugi', cursive;
+}
+
+a{text-decoration: none;}
+a:hover
+{text-decoration: none!important;}
+
+
+.gallerys img
+{
+    padding: 10px;
+    transition: all .3s;
+}
+
+
+
+.gallerys img:hover
+{
+    opacity: .8;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
